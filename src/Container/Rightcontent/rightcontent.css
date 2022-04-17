@@ -1,0 +1,75 @@
+.right-content{
+    padding: 2rem 3rem;
+    
+}
+
+li{
+    margin: 10px;
+}
+.right h2{
+    background-color: #080C3B;
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    color: white;
+    letter-spacing: 1px;
+    padding: 3px;
+}
+.summary p{
+    color: rgb(63, 63, 63);
+    padding: 15px 0px;
+}
+.company{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 15px 0;
+}
+.company-title{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+.company-title2{
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color:  blue;
+}
+.education{
+    margin-top: 30px;
+}
+
+.professional-dev{
+    margin-top: 30px;
+}
+
+.role li{
+    list-style-type: disc;
+}
+.courses{
+    margin: 10px 0;
+}
+.courses li{
+    color:  rgb(63, 63, 63);
+    padding: 5px 0;
+    list-style-type: disc;
+}
+.interest{
+    margin-top: 30px;
+}
+.interest-list{
+    padding: 20px 0;
+}
+.interest-list ul{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.interest-list ul li img{
+    color: rgb(63, 63, 63);
+    font-size: 15px;
+    margin-right: 5px;
+    max-width: 25%;
+    height: auto;
+}
+
+

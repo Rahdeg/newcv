@@ -1,0 +1,97 @@
+.left-content{
+    padding: 20px 30px;
+}
+
+.intro{
+    width: 100%;
+    border-bottom: 1px solid white;
+}
+.img{
+    width: 100%;
+    text-align: center;
+}
+.intro img{
+    border-radius: 50%;
+    width: 100%;
+    border: 7px solid rgb(49, 49, 85);
+}
+.intro h1{
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    color: white;
+    text-align: center;
+    letter-spacing: 1px;
+    padding: 7px 0;
+}
+.intro p{
+    text-transform: uppercase;
+    font-size: 1rem;
+    color: white;
+    text-align: center;
+    letter-spacing: 1px;
+    padding-bottom: 7px;
+    color: lightblue;
+}
+
+.title{
+    text-transform: uppercase;
+    font-size: 1.2rem;
+    color: white;
+    letter-spacing: 1px;
+    padding: 20px 0;
+}
+
+.info ul li{
+    padding: 5px 0;
+    display: flex;
+    align-items: center;
+    color: rgb(255, 255, 255);
+}
+.info ul li img{
+    color: skyblue;
+    font-size: 15px;
+    margin: 5px;
+    max-width: 10%;
+    height: auto;
+}
+.professional ul li{
+    color: rgb(255, 255, 255);
+    padding: 5px 0;
+    list-style-type: disc;
+}
+
+.skill-name{
+    text-transform: uppercase;
+    color: white;
+    font-size: 1rem;
+    padding: 10px 0;
+}
+.progress-box{
+    position: relative;
+    width: 100%;
+    border-radius: 12px;
+    height: 5px;
+    background-color: rgb(15, 15, 44);
+}
+.progress{
+    position: absolute;
+    background-color: skyblue;
+    border-radius: 12px;
+    height: 100%;
+}
+.ms-progress{
+    width: 70%;
+}
+.dm-progress{
+    width: 50%;
+}
+.internet-progress{
+    width: 80%;
+}
+.software-progress{
+    width: 40%;
+}
+
+.web-progress{
+    width: 80%;
+}
