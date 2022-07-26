@@ -6,7 +6,7 @@ const prodev = () => {
                 <h2>Professional Development</h2>
                 <div class="courses">
                     <ul>
-                        <li>Web Development (In-View) – Zero to Mastery.</li>
+                        <li>Web Development – Zero to Mastery.</li>
                         <li>Web design-Udemy</li>
                         <li>Side Hustle internship 5.0(NODE.JS & REACT.JS) </li>
                     </ul>
