@@ -27,9 +27,9 @@ const experience = () => {
                     <div class="role">
                         <h3 class="company-title2">CAFE MANAGER</h3>
                         <ul>
-                        <li>Developes and maintain websites for data storage and retrieval using React.js </li>
+                        <li>Developes and maintain websites for data storage and retrieval using React.js and Node.js</li>
                         <li>Contribute to business development efforts to drive revenue and meet business objectives.</li>
-                        <li>Handle administrative requirements smoothly and efficientl.</li>
+                        <li>Handle administrative requirements smoothly and efficiently.</li>
                     </ul>
                     </div>
                 </div>
