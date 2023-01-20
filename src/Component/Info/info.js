@@ -20,9 +20,9 @@ const info = () => {
                         <li><img className='icon' src={instagram} alt='f'/>
                         Raheemadegbite</li>
                         <li><img className='icon' src={linkedin} alt='f'/>
-                        Raheem-Ade</li>
+                        raheemadegbite</li>
                     <li><img className='icon' src={twitter} alt='f'/>
-                     @_raheem</li>
+                    @Walett25</li>
                 </ul>
             </div>
   )

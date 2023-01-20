@@ -10,7 +10,6 @@ const proskills = () => {
                     <li>Problemn solving and critical thinking.</li>
                     <li>Superb customer service skills.</li>
                     <li>Great listening skills, empathy and emotional intelligence.</li>
-                    <li>Ability to influence and negotiate effectively.</li>
                     <li>Readiness to learn.</li>
                     <li>Detailed oriented.</li>
                     <li>integrity and approachability.</li>
